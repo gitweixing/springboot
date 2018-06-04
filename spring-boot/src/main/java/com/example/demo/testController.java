@@ -13,7 +13,7 @@ public class testController {
 		Date d=new Date();
 		System.out.println(d);
 		try {
-			//有—
+			//有— 
 			String[] str=biaoji.split("-");
 			String a=str[0];
 			switch (a) {
